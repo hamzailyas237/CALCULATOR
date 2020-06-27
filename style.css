@@ -1,0 +1,41 @@
+h1{
+    text-align: center;
+    text-decoration:underline;
+    text-shadow: 2px 3px 4px grey ;
+    
+}
+.main{
+    background-color:#D7E4F5;
+    border: 1px double grey;
+    border-radius: 2px;
+    width: 177px;
+    margin: 0 auto;
+    height: 172px;
+    
+}
+
+.calc{ 
+    margin-top: 5px;
+    height: 30px;
+}
+
+
+.Clear{
+    width: 177px;
+    margin-top: 5px;
+    margin-bottom: 2px;
+}
+
+.Clear:active{
+    background-color:grey;
+}
+
+.btn{
+    margin: 1px;
+    width: 39px;
+    padding: 2px;
+}
+
+.btn:hover{
+    background-color: grey;
+}
